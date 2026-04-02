@@ -16,7 +16,7 @@ AI • ML • Data Science • Data Analytics • Intelligent Systems
   <a href="https://www.linkedin.com/in/tanuj-bhardwaj11/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  >
+  
 </p>
 
 ---
